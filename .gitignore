@@ -1,0 +1,10 @@
+# 모델 저장 폴더
+saved_models/
+*.pth
+*.pt
+*.bin
+*.safetensors
+
+# Wandb 로그 및 캐시
+wandb/
+.wandb/
